@@ -91,5 +91,5 @@ La interfaz gráfica fue desarrollada con **Tkinter** y permite:
 ## 🔗 Enlaces
 
 - 📄 **Presentación**: https://chatbot-integrado-con-ia-lx6clq0.gamma.site/
-- 🎥 **Video tutorial del sistema**: https://youtu.be/XXXXXXXX
+- 🎥 **Video tutorial del sistema**: https://youtu.be/P8BW09r6YUc
 - 💻 **Repositorio en GitHub**: https://github.com/JoelTorres981/Jarvis-IA
