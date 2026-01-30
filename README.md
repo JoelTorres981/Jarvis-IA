@@ -88,3 +88,8 @@ La interfaz gráfica fue desarrollada con **Tkinter** y permite:
 - Interactuar con el chatbot por voz o texto
 
 ---
+## 🔗 Enlaces
+
+- 📄 **Presentación**: https://chatbot-integrado-con-ia-lx6clq0.gamma.site/
+- 🎥 **Video tutorial del sistema**: https://youtu.be/XXXXXXXX
+- 💻 **Repositorio en GitHub**: https://github.com/JoelTorres981/Jarvis-IA
